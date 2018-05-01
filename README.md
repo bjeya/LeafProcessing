@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+Plants, for their growth and survival, need 13 mineral nutrients.
 
-You can use the [editor on GitHub](https://github.com/bjeya/bjeya.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Toxicity or deficiency in any one or more of these nutrients affects the growth of plant and may even cause the destruction of the plant.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hence, a constant monitoring system for tracking the nutrient status in plants becomes essential for increase in production as well as quality of yield. A diagnostic system using digital image processing would diagnose the deficiency symptoms much earlier than human eyes could recognize. This will enable the farmers to adopt appropriate remedial action in time. 
 
-### Markdown
+The diagnostic system would include the following components using image processing techniques
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bjeya/bjeya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 1. Leaf area measurement
+ 2. Segmentation of edge and veins of the leaf
+ 3. Determining the Shape of the leaf
+ 4. Classification of the deficient mineral
+ 5. Determining the age of leaf
+ 6. Extraction of color features of the leaf
